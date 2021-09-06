@@ -1,0 +1,14 @@
+body{
+    background-color: darksalmon;
+}
+h1 {
+    color: blue;
+    background-color:burlywood;
+    font-size: 200%;
+}
+p{
+    color: cadetblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 150%;
+
+}
